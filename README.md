@@ -240,19 +240,6 @@ python val.py \
 
 ---
 
-## 📚 Citation
-
-If you find this project useful, please consider citing it in your research.
-
-```bibtex
-@misc{yolov8_crop_disease_detection,
-  title={YOLOv8-Based Automatic Crop Disease Detection},
-  author={Your Name},
-  year={2026},
-  note={GitHub Repository}
-}
-```
-
 ---
 
 ## 📄 License
