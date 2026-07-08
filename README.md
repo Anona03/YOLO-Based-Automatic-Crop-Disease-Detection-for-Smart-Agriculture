@@ -248,4 +248,3 @@ This project is released under the **MIT License**.
 
 ---
 
-⭐ If you find this repository helpful, please consider giving it a **Star**!
